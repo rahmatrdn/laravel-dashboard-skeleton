@@ -1,0 +1,6 @@
+:root,
+[data-bs-theme=light] {
+    --bs-body-font-family: 'Nunito', sans-serif;
+    --bs-warning: rgb(234, 175, 14);
+    --bs-warning-rgb: 234, 175, 14;
+}
